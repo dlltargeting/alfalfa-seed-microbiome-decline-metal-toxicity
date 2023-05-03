@@ -1,0 +1,112 @@
+source,target,colors
+V1, g__Acremonium,red
+V1, g__Amphinema,red
+V1, g__Apiotrichum,red
+V1, g__Cosmospora,red
+V1, g__Dissoconium,red
+V1, g__Filobasidium,red
+V1, g__Fusariella,red
+V1, g__Pyrenophora,red
+V1, g__Uwebraunia,red
+V1, g__Wojnowiciella,red
+ g__Acremonium, g__Amphinema,red
+ g__Acremonium, g__Apiotrichum,red
+ g__Acremonium, g__Cosmospora,red
+ g__Acremonium, g__Dissoconium,red
+ g__Acremonium, g__Filobasidium,red
+ g__Acremonium, g__Fusariella,red
+ g__Acremonium, g__Pyrenophora,red
+ g__Acremonium, g__Uwebraunia,red
+ g__Acremonium, g__Wojnowiciella,red
+ g__Alternaria, g__Aureobasidium,red
+ g__Alternaria, g__Cercospora,red
+ g__Alternaria, g__Fusarium,red
+ g__Alternaria, g__Malassezia,red
+ g__Amphinema, g__Apiotrichum,red
+ g__Amphinema, g__Cosmospora,red
+ g__Amphinema, g__Dissoconium,red
+ g__Amphinema, g__Filobasidium,red
+ g__Amphinema, g__Fusariella,red
+ g__Amphinema, g__Pyrenophora,red
+ g__Amphinema, g__Uwebraunia,red
+ g__Amphinema, g__Wojnowiciella,red
+ g__Apiotrichum, g__Cosmospora,red
+ g__Apiotrichum, g__Dissoconium,red
+ g__Apiotrichum, g__Filobasidium,red
+ g__Apiotrichum, g__Fusariella,red
+ g__Apiotrichum, g__Pyrenophora,red
+ g__Apiotrichum, g__Uwebraunia,red
+ g__Apiotrichum, g__Wojnowiciella,red
+ g__Ascochyta, g__Epichloe,red
+ g__Ascochyta, g__Exophiala,red
+ g__Ascochyta, g__Ramularia,red
+ g__Ascochyta, g__Suillus,red
+ g__Aspergillus, g__Cutaneotrichosporon,blue
+ g__Aureobasidium, g__Cercospora,red
+ g__Aureobasidium, g__Fusarium,red
+ g__Aureobasidium, g__Malassezia,red
+ g__Aureobasidium, g__Microcyclospora,red
+ g__Aureobasidium, g__Trichoderma,red
+ g__Cercospora, g__Fusarium,red
+ g__Cercospora, g__Malassezia,red
+ g__Cercospora, g__Microcyclospora,red
+ g__Cercospora, g__Trichoderma,red
+ g__Cladosporium, g__Stemphylium,red
+ g__Cosmospora, g__Dissoconium,red
+ g__Cosmospora, g__Filobasidium,red
+ g__Cosmospora, g__Fusariella,red
+ g__Cosmospora, g__Pyrenophora,red
+ g__Cosmospora, g__Uwebraunia,red
+ g__Cosmospora, g__Wojnowiciella,red
+ g__Cutaneotrichosporon, g__Devriesia,red
+ g__Cutaneotrichosporon, g__Kurtzmanomyces,red
+ g__Cutaneotrichosporon, g__Leptosphaeria,red
+ g__Cutaneotrichosporon, g__Pochonia,red
+ g__Cutaneotrichosporon, g__Tomentella,red
+ g__Devriesia, g__Kurtzmanomyces,red
+ g__Devriesia, g__Leptosphaeria,red
+ g__Devriesia, g__Pochonia,red
+ g__Devriesia, g__Tomentella,red
+ g__Dissoconium, g__Filobasidium,red
+ g__Dissoconium, g__Fusariella,red
+ g__Dissoconium, g__Pyrenophora,red
+ g__Dissoconium, g__Uwebraunia,red
+ g__Dissoconium, g__Wojnowiciella,red
+ g__Epichloe, g__Exophiala,red
+ g__Epichloe, g__Ramularia,red
+ g__Epichloe, g__Suillus,red
+ g__Exophiala, g__Ramularia,red
+ g__Exophiala, g__Suillus,red
+ g__Filobasidium, g__Fusariella,red
+ g__Filobasidium, g__Pyrenophora,red
+ g__Filobasidium, g__Uwebraunia,red
+ g__Filobasidium, g__Wojnowiciella,red
+ g__Fusariella, g__Pyrenophora,red
+ g__Fusariella, g__Uwebraunia,red
+ g__Fusariella, g__Wojnowiciella,red
+ g__Fusarium, g__Malassezia,red
+ g__Fusarium, g__Microcyclospora,red
+ g__Fusarium, g__Trichoderma,red
+ g__Kurtzmanomyces, g__Leptosphaeria,red
+ g__Kurtzmanomyces, g__Pochonia,red
+ g__Kurtzmanomyces, g__Tomentella,red
+ g__Leptosphaeria, g__Pochonia,red
+ g__Leptosphaeria, g__Tomentella,red
+ g__Malassezia, g__Microcyclospora,red
+ g__Malassezia, g__Trichoderma,red
+ g__Microcyclospora, g__Trichoderma,red
+ g__Mycenella, g__Paraconiothyrium,red
+ g__Mycenella, g__Penicillium,red
+ g__Mycenella, g__Phoma,red
+ g__Mycenella, g__Trichosporon,red
+ g__Paraconiothyrium, g__Penicillium,red
+ g__Paraconiothyrium, g__Phoma,red
+ g__Paraconiothyrium, g__Trichosporon,red
+ g__Penicillium, g__Phoma,red
+ g__Penicillium, g__Trichosporon,red
+ g__Phoma, g__Trichosporon,red
+ g__Pochonia, g__Tomentella,red
+ g__Pyrenophora, g__Uwebraunia,red
+ g__Pyrenophora, g__Wojnowiciella,red
+ g__Ramularia, g__Suillus,red
+ g__Uwebraunia, g__Wojnowiciella,red
